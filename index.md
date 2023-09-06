@@ -13,14 +13,14 @@ sections:
       button: Contact Us
       url: hos@chi.sg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: About us
+          description: A snapshot of who we are
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Our events
+          description: A slew of activities
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Contact us
+          description: You may email us
           url: /privacy/
   - infobar:
       title: UPCOMING EVENTS
