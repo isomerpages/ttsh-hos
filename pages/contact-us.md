@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Hospitals of Singapore (HOS) Network
 locations:
   - address:
-      - Cen
+      - Ng Teng Fong
       - Big Bird Building
       - Singapore 123456
     operating_hours:
