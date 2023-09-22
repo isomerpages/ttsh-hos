@@ -23,8 +23,8 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: UPCOMING EVENTS
-      description: Join us in shaping the future of hospitals in Singapore
-      button: delegation trip 2023
+      title: Our Members
+      description: Co-learning, Co-imagining and Co-creating healthcare
+      button: Who are we
       url: /faq/
 ---
