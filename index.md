@@ -27,4 +27,6 @@ sections:
       description: Co-learning, Co-imagining and Co-creating healthcare
       button: Who are we
       url: /faq/
+  - infopic:
+      image: /images/logoss.png
 ---
