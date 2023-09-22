@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hospitals of Singapore (HOS) Network
       subtitle: Collective Leadership for the Future of Hospitals in Singapore
-      background: /images/hero-banner.png
+      background: /images/microsoftteams-image (11).png
       button: Contact Us
       url: hos@chi.sg
       key_highlights:
@@ -19,9 +19,9 @@ sections:
         - title: Our events
           description: A slew of activities
           url: https://gmail.com
-        - title: Contact us
-          description: You may email us
-          url: /privacy/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: UPCOMING EVENTS
       description: Join us in shaping the future of hospitals in Singapore
