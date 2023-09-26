@@ -2,6 +2,6 @@ collections:
   example-folder:
     output: true
     order:
-      - Our Members.md
       - About Us/.keep
       - About Us/subfolder-page.md
+      - Our Members.md
