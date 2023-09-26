@@ -12,16 +12,6 @@ sections:
       background: /images/microsoftteams-image (11).png
       button: Contact Us
       url: hos@chi.sg
-      key_highlights:
-        - title: About us
-          description: A snapshot of who we are
-          url: https://google.com
-        - title: Our events
-          description: A slew of activities
-          url: https://gmail.com
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infopic:
       image: /images/logoss.png
       title: Our Members
