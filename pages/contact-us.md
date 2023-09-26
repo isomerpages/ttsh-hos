@@ -7,7 +7,7 @@ locations:
   - address:
       - Ng Teng Fong
       - Big Bird Building
-      - "Singapore 308443 "
+      - Singapore 308443
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
@@ -21,11 +21,6 @@ contacts:
   - content:
       - phone: +65 6903 5344
       - email: hos@chi.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
