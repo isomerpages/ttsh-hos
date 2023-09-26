@@ -26,8 +26,4 @@ sections:
       image: /images/logoss.png
       title: Our Members
       description: Co-learning, Co-imagining and Co-creating healthcare
-  - infopic:
-      title: HOS Network Members
-      description: Co-learning, Co-imagining and Co-creating healthcare
-      image: /images/hos network member logos.png
 ---
