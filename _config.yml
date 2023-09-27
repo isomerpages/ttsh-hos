@@ -3,18 +3,18 @@ url: https://hos.chi.sg
 favicon: /images/hos_03.png
 colors:
   primary-color: "#a6192e"
-  secondary-color: "#c10317"
+  secondary-color: "#03c18e"
   media-colors:
     - title: media-color-one
-      color: "#092e52"
+      color: "#095244"
     - title: media-color-two
-      color: "#d0021b"
+      color: "#023ad0"
     - title: media-color-three
-      color: "#071640"
+      color: "#bd10e0"
     - title: media-color-four
-      color: "#000000"
+      color: "#ffffff"
     - title: media-color-five
-      color: "#d0021b"
+      color: "#f5a623"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
