@@ -3,7 +3,7 @@ url: https://hos.chi.sg
 favicon: /images/hos_03.png
 colors:
   primary-color: "#a6192e"
-  secondary-color: "#03c18e"
+  secondary-color: "#002766"
   media-colors:
     - title: media-color-one
       color: "#095244"
