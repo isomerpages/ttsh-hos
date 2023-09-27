@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Hospitals of Singapore (HOS) Network
-      subtitle: Collective Leadership for the Future of Hospitals in Singapore
+      subtitle: Driving Collective Leadership for the Future of Hospitals in Singapore
       background: /images/microsoftteams-image (11).png
       button: Contact Us
       url: hos@chi.sg
