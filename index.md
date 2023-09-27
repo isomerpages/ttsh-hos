@@ -16,4 +16,5 @@ sections:
       image: /images/logoss.png
       title: Our Members
       description: Co-learning, Co-imagining and Co-creating healthcare
+      alt: sczcxc
 ---
