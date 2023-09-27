@@ -1,20 +1,20 @@
 title: Title
 url: https://hos.chi.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/hos_03.png
 colors:
-  primary-color: "#2f0682"
-  secondary-color: "#d0021b"
+  primary-color: "#d0021b"
+  secondary-color: "#c10317"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#092e52"
     - title: media-color-two
       color: "#d0021b"
     - title: media-color-three
-      color: "#00838f"
+      color: "#071640"
     - title: media-color-four
-      color: "#00838f"
+      color: "#000000"
     - title: media-color-five
-      color: "#00838f"
+      color: "#d0021b"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
