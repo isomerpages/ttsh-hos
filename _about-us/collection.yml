@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About Us/.keep
-      - About Us/subfolder-page.md
       - Our Members.md
       - Our Values.md
       - Our Activities.md
