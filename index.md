@@ -23,4 +23,11 @@ sections:
       description: Share good practices and foster transformative change to drive
         thought leadership through local and international platforms
       alt: Image alt text
+  - infopic:
+      title: "We Support the Development of Future Hospital Leaders "
+      subtitle: Add an image and text
+      id: infopic
+      description: "Foster collaborative projects and shared capability development
+        initiatives "
+      alt: Image alt text
 ---
