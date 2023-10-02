@@ -18,7 +18,7 @@ sections:
       description: Co-learning, Co-imagining and Co-creating healthcare
       alt: sczcxc
   - infopic:
-      title: We drive thought leadership in Hospital Management
+      title: We Drive Thought Leadership in Hospital Management
       id: infopic
       description: Share good practices and foster transformative change to drive
         thought leadership through local and international platforms
