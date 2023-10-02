@@ -6,7 +6,7 @@ agency_name: Hospitals of Singapore (HOS) Network
 locations:
   - address:
       - Ng Teng Fong
-      - Big Bird Building
+      - Centre for Healthcare
       - Singapore 308443
     operating_hours:
       - days: Mon - Fri
@@ -23,4 +23,5 @@ contacts:
       - email: hos@chi.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
