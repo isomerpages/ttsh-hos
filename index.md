@@ -43,7 +43,7 @@ sections:
       title: We Identify Strategic Areas for Hospital Development
       subtitle: Add an image and text
       id: infopic
-      description: "Proactively capitalize on emerging opportunities and address
-        future challenges of healthcare and hospital management.  "
+      description: Proactively capitalize on emerging opportunities and address future
+        challenges of healthcare and hospital management.
       alt: Image alt text
 ---
