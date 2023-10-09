@@ -14,7 +14,7 @@ sections:
       url: hos@chi.sg
   - infopic:
       title: Our Partners
-      description: Co-learning, Co-imagining and Co-creating healthcare
+      description: Co-Learning, Co-Imagining and Co-Creating Healthcare
       alt: sczcxc
       image: /images/all partners.png
 ---
