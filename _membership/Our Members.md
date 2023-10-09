@@ -32,11 +32,11 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
-<td><strong>National University Hospital</strong><br>Represented by: Prof Aymeric Lim<br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>National University Hospital</strong><br>Represented by: Prof Aymeric Lim<br>Chief Executive Officer<br><a href="https://www.nuh.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
-<td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: Dr Quet Lit Sin<br>Chief Executive Officer<br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: Dr Quet Lit Sin<br>Chief Executive Officer<br><a href="https://www.ntfgh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
 <td><strong>Sengkang General Hospital<br> </strong>Represented by: Prof Teo Eng Kiong<br>Chief Executive Officer<br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
