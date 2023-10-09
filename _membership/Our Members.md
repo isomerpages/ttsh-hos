@@ -6,22 +6,21 @@ description: ""
 <h3>HOS Network Members</h3>
 
 Internal Note: Logos have yet to be updated (Pat) 
+
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></td>
 <td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
-Chief Executive Officer <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>Website</small></a><br></td>
+Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
-
-
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
-<td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
-<td><strong>Institute of Mental Health</strong><br>Represented by: A/Prof Daniel Fung<br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Institute of Mental Health</strong><br>Represented by: A/Prof Daniel Fung<br>Chief Executive Officer<br><a href="https://www.imh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
