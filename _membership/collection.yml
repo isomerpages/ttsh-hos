@@ -2,5 +2,5 @@ collections:
   membership:
     output: true
     order:
-      - Membership Information.md
       - Our Members.md
+      - Membership Information.md
