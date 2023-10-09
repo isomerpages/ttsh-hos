@@ -10,7 +10,7 @@ description: ""
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/prof%20cherdchai-01.png"></td>
 <td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
-Chief Executive Officer <br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
+Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
 
