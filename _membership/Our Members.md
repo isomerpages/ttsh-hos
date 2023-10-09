@@ -45,13 +45,13 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Singapore General Hospital</strong><br>Represented by: Prof Kenneth Kwek<br>Chief Executive Officer<br><a href="https://www.sgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
-<td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
-<td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Prof Eugene Fidelis Soh<br>Chief Executive Officer<br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Prof Eugene Fidelis Soh<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></a></td>
-<td><strong>Woodlands Health</strong><br>Represented by: Dr Jason Cheah<br>Chief Executive Officer<br><a href="https://www.linkedin.com/school/saw-swee-hock-school-of-public-health/?originalSubdomain=sg" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Woodlands Health</strong><br>Represented by: Dr Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
 
