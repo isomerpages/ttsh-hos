@@ -11,6 +11,6 @@ Some of these activities may include (but not limited to):
 2.  Leadership Roundtables / Networking Sessions
 3.  Leadership Study Trips
 4.  Leadership Invitations to healthcare conferences organised by clusters/members
-5.  Leadership Invitations to the Annual CHI Innovate Conference and CHI Masterclasses
+5.  Leadership Invitations to the Annual CHI INNOVATE Conference and CHI Masterclasses
 6.  Leadership Access to a global network of hospital associations and learning platforms including the World Hospital Congress as a full member of the International Hospital Federation
 7.  Joint initiatives and programmes such as research projects, publications etc
