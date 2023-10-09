@@ -5,21 +5,15 @@ permalink: /contact-us/
 agency_name: Hospitals of Singapore (HOS) Network
 locations:
   - address:
-      - Ng Teng Fong
-      - Centre for Healthcare
+      - 18 Jalan Tan Tock Seng
       - Singapore 308443
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+      - ""
+    operating_hours: []
     maps_link: ""
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6903 5344
+      - phone: ""
       - email: hos@chi.sg
       - other: ""
     title: General Enquiries & Feedback
