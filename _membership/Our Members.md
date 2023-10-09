@@ -16,19 +16,19 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></a></td>
-<td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/henriks-g%C3%B6ran-147604b3" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/hahrie-han-479915"><img alt="chi" src="/images/Leaders/prof%20hahrie%20han-01-min.png"></a></td>
-<td><strong>Institute of Mental Health</strong><br>Represented by: A/Prof Daniel Fung<br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/hahrie-han-479915" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Institute of Mental Health</strong><br>Represented by: A/Prof Daniel Fung<br>Chief Executive Officer<br><a href="https://www.imh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon"><img alt="andrew1" src="/images/Leaders/prof%20jonathon%20gray-01.png"></a></td>
-<td><strong>Khoo Teck Puat Hospital</strong><br>Represented by: Prof Chua Hong Choon<br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/dr-jonathon" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>Khoo Teck Puat Hospital</strong><br>Represented by: Prof Chua Hong Choon<br>Chief Executive Officer<br><a href="https://www.ktph.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/jonty-heaversedge"><img alt="andrew1" src="/images/Leaders/jonty_heaversedge-01.png"></a></td>
-<td><strong>KK Women's and Children's Hospital</strong><br>Represented by: Prof Alex Sia<br>Chief Executive Officer<br><a href="https://www.linkedin.com/in/jonty-heaversedge" target="_blank"><small>LinkedIn</small></a><br></td>
+<td><strong>KK Women's and Children's Hospital</strong><br>Represented by: Prof Alex Sia<br>Chief Executive Officer<br><a href="https://www.kkh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/Leaders/dr%20junaid%20bajwa-01.png"></a></td>
