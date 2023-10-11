@@ -13,8 +13,7 @@ sections:
       button: Contact Us
       url: hos@chi.sg
   - infopic:
-      title: Our Partners
-      description: Co-Learning, Co-Imagining and Co-Creating Healthcare
+      title: Our Members
       alt: sczcxc
       image: /images/all partners.png
 ---
