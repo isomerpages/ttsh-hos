@@ -3,7 +3,7 @@ title: About Us
 permalink: /about-us/permalink/
 description: ""
 ---
-![](/images/members.png)
+![](/images/hos%20members.png)
 
 #### The Hospitals of Singapore (HOS) Network drives collective leadership for the future of hospitals in Singapore. 
 
