@@ -35,22 +35,22 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>National University Hospital</strong><br>Represented by: Prof Aymeric Lim<br>Chief Executive Officer<br><a href="https://www.nuh.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/ntfgh%20logo.png"></td>
 <td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: Dr Quet Lit Sin<br>Chief Executive Officer<br><a href="https://www.ntfgh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src=""></td>
 <td><strong>Sengkang General Hospital<br> </strong>Represented by: Prof Teo Eng Kiong<br>Chief Executive Officer<br><a href="https://www.skh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
 <td><strong>Singapore General Hospital</strong><br>Represented by: Prof Kenneth Kwek<br>Chief Executive Officer<br><a href="https://www.sgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/singhealth%20community%20.png"></td>
 <td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Prof Eugene Fidelis Soh<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/woodlands%20health.jpg"></td>
 <td><strong>Woodlands Health</strong><br>Represented by: Dr Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
