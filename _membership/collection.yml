@@ -1,0 +1,5 @@
+collections:
+  membership:
+    output: true
+    order:
+      - Our Members.md
