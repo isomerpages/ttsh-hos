@@ -40,7 +40,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <tr><td style="width: 150px;"><img alt="andrew1" src=""></td>
 <td><strong>Sengkang General Hospital<br> </strong>Represented by: Prof Teo Eng Kiong<br>Chief Executive Officer<br><a href="https://www.skh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/sgh_nobackground.png"></td>
 <td><strong>Singapore General Hospital</strong><br>Represented by: Prof Kenneth Kwek<br>Chief Executive Officer<br><a href="https://www.sgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/singhealth%20community%20.png"></td>
