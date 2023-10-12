@@ -9,7 +9,7 @@ description: ""
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ah%20logo.png"></td>
+<td style="width: 150px;"><img src="images/HOS%20Members%20Logo/ah%20logo.png"></td>
 <td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
@@ -61,7 +61,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img alt="andrew1" src="/images/Chairman.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img src="/images/chairman2.png"></a></td>
 <td><strong>Prof Eugene Fidelis Soh</strong><br>Chairman<br>Centre for Healthcare Innovation<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
 </td></tr>
 </tbody>
