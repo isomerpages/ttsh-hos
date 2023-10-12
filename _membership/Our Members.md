@@ -37,7 +37,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/ntfgh%20logo.png"></td>
 <td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: Dr Quet Lit Sin<br>Chief Executive Officer<br><a href="https://www.ntfgh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src=""></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/shk-logo-01.png"></td>
 <td><strong>Sengkang General Hospital<br> </strong>Represented by: Prof Teo Eng Kiong<br>Chief Executive Officer<br><a href="https://www.skh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/sgh_nobackground.png"></td>
