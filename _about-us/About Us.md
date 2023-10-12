@@ -11,6 +11,8 @@ Inaugurated on 1 September 2023, the Network has 12 hospital members across the 
 
 ![](/images/mock-up%20for%20hos%20isomer%20page_horizontal72ppi.png)
 
+##### About the Host:~~~~
+
 CHI is committed to transform healthcare, driven by its three thrusts: Promoting a culture of innovation through thought leadership, achieve better health and healthcare by enabling workforce transformation, and to catalyse value-based outcomes by effecting systems-level change.
 
 Founded in 2016 on the concept of co-learning and collaboration, CHI and its network of 87 like-minded local and international partners create thought leadership, as well as co-build initiatives and programmes to inculcate a culture of innovation within healthcare.
