@@ -4,5 +4,7 @@ links:
     collection: about-us
   - title: Membership
     collection: membership
+  - title: Our Events
+    collection: our-events
   - title: Contact Us
     url: /contact-us/
