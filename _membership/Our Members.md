@@ -5,7 +5,6 @@ description: ""
 ---
 <h3>HOS Network Members</h3>
 
-Internal Note: Logos have yet to be updated (Pat) 
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
