@@ -14,7 +14,7 @@ description: ""
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/go╠êran%20henriks_01%20copy.png"></td>
+<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/changi%20general%20hosp.png"></td>
 <td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
