@@ -46,7 +46,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/singhealth%20community%20.png"></td>
 <td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/Leaders/profteoyy.png"></td>
+<tr><td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ttsh%20logo.png"></td>
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Prof Eugene Fidelis Soh<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/woodlands%20health.jpg"></td>
