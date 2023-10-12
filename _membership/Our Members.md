@@ -22,7 +22,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Institute of Mental Health</strong><br>Represented by: A/Prof Daniel Fung<br>Chief Executive Officer<br><a href="https://www.imh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="<insert logo>"></td>
+<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ktph%20nhg%20logo%20-%20fc.png"></td>
 <td><strong>Khoo Teck Puat Hospital</strong><br>Represented by: Prof Chua Hong Choon<br>Chief Executive Officer<br><a href="https://www.ktph.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
