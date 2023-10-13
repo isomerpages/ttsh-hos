@@ -15,5 +15,5 @@ sections:
   - infopic:
       title: Our Members
       alt: sczcxc
-      image: /images/all partners.png
+      image: /images/website partners.png
 ---
