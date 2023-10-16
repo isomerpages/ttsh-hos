@@ -15,5 +15,5 @@ sections:
   - infopic:
       title: Our Members
       alt: sczcxc
-      image: /images/picture3.png
+      image: /images/picture4.png
 ---
