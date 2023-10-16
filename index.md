@@ -11,7 +11,7 @@ sections:
       subtitle: Driving Collective Leadership for the Future of Hospitals in Singapore
       background: /images/microsoftteams-image (11).png
       button: Contact Us
-      url: https://cms.isomer.gov.sg/sites/ttsh-hos/contact-us
+      url: contact-us
   - infopic:
       title: Our Members
       alt: sczcxc
