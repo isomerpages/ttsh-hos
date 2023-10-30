@@ -1,0 +1,8 @@
+logo: /images/hos logo_300ppi.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Membership
+    collection: membership
+  - title: Contact Us
+    url: /contact-us/
