@@ -2,7 +2,7 @@
 layout: homepage
 title: Hospitals of Singapore Network
 description: An Isomer site of the Singapore Government
-image: /images/hos network logo.png
+image: /images/final hos network logo.png
 permalink: /
 notification: ""
 sections:
