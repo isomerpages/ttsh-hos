@@ -12,6 +12,7 @@ sections:
       background: /images/microsoftteams-image (11).png
       button: Contact Us
       url: contact-us
+      variant: center
   - infopic:
       title: Our Members
       alt: sczcxc
