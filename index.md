@@ -14,7 +14,7 @@ sections:
       url: contact-us
       variant: center
   - infopic:
-      title: Our Members
+      title: Our Network
       alt: sczcxc
       image: /images/all logos.png
 ---
