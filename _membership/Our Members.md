@@ -2,6 +2,7 @@
 title: Our Members
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
 <h3>HOS Network Members</h3>
 
@@ -14,7 +15,7 @@ description: ""
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/changi%20general%20hosp.png"></td>
+<td style="width: 150px;"><img src="/images/CGH_20logo_keyline_CMYK.jpg"></td>
 <td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
