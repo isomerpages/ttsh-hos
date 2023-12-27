@@ -2,5 +2,4 @@ collections:
   network:
     output: true
     order:
-      - Foreword.md
       - Our Network.md
