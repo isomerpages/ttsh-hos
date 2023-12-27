@@ -63,7 +63,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img src="/images/chairman2.png"></a></td>
-<td><strong>International Hospital Federation<!--<br--><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
+<td><strong>International Hospital Federation<br><a href="[Homepage | IHF - International Hospital Federation (ihf-fih.org)](https://ihf-fih.org/)" target="_blank"><small>Website</small></a><br>
 </strong></td></tr>
 </tbody>
 </table>
