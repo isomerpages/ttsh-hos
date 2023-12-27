@@ -57,7 +57,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 
 </tbody></table>
 
-<h4>Gloabal Affli</h4>
+<h4>Global Affliate</h4>
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
