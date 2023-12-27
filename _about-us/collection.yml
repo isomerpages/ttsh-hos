@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Foreword.md
       - About Us.md
