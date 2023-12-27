@@ -1,5 +1,5 @@
 collections:
-  membership:
+  network:
     output: true
     order:
       - Our Members.md
