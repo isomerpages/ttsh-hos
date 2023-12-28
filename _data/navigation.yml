@@ -1,8 +1,8 @@
-logo: /images/final hos network logo.png
+logo: /images/HOS_Logo__1_.png
 links:
   - title: About Us
     collection: about-us
-  - title: Membership
-    collection: membership
+  - title: Network
+    collection: network
   - title: Contact Us
     url: /contact-us/

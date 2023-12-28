@@ -1,6 +1,6 @@
 title: Hospitals of Singapore Network
 url: https://hos.chi.sg
-favicon: /images/final hos network logo.png
+favicon: /images/HOS_Logo__1_.png
 colors:
   primary-color: "#a6192e"
   secondary-color: "#002766"
@@ -53,7 +53,7 @@ staging: https://staging.dk30o4n9yg3xn.amplifyapp.com
 prod: https://master.dk30o4n9yg3xn.amplifyapp.com
 facebook-pixel: ""
 resources_name: test
-shareicon: /images/final hos network logo.png
+shareicon: /images/HOS_Logo__1_.png
 is_government: false
 google_analytics_ga4: G-LMVR52TEG9
 linkedin-insights: ""

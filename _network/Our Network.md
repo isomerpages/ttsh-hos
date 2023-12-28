@@ -1,5 +1,5 @@
 ---
-title: Our Members
+title: Our Network
 permalink: /permalink/
 description: ""
 variant: markdown
@@ -57,13 +57,13 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 
 </tbody></table>
 
-<h4>Network Host</h4>
+<h4>Global Affliate</h4>
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/eugenefidelissoh/"><img src="/images/chairman2.png"></a></td>
-<td><strong>Prof Eugene Fidelis Soh</strong><br>Chairman<br>Centre for Healthcare Innovation<br><a href="https://www.linkedin.com/in/eugenefidelissoh/" target="_blank"><small>LinkedIn</small></a><br>
-</td></tr>
+<td style="width: 150px;"><a href="https://ihf-fih.org/"><img src="/images/IHF_Full_member_2023_logo_NB.png"></a></td>
+<td><strong>International Hospital Federation<br><a href="https://ihf-fih.org/" target="_blank"><small>Website</small></a><br>
+</strong></td></tr>
 </tbody>
 </table>
