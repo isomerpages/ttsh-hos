@@ -10,7 +10,7 @@ variant: markdown
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><img src=""></td>
+<td style="width: 150px;"><img src="/images/MicrosoftTeams_image__14_.png"></td>
 <td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
