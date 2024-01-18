@@ -16,4 +16,5 @@ sections:
   - infopic:
       title: Our Network
       image: /images/Picture1.png
+      alt: alttext
 ---
