@@ -15,6 +15,5 @@ sections:
       variant: center
   - infopic:
       title: Our Network
-      alt: sczcxc
       image: /images/Picture1.png
 ---
