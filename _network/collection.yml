@@ -2,4 +2,5 @@ collections:
   network:
     output: true
     order:
+      - Activity Highlights.md
       - Our Network.md
