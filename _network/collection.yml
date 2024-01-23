@@ -2,5 +2,6 @@ collections:
   network:
     output: true
     order:
+      - Upcoming Activities.md
       - Activity Highlights.md
       - Our Network.md
