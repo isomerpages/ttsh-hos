@@ -10,7 +10,7 @@ variant: markdown
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ah%20logo.png"></td>
+<td style="width: 150px;"><img src="/images/MicrosoftTeams_image__14_.png"></td>
 <td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
@@ -31,11 +31,11 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>KK Women's and Children's Hospital</strong><br>Represented by: Prof Alex Sia<br>Chief Executive Officer<br><a href="https://www.kkh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/nuh%20logo%20cmyk%20endorsement%20011119.png"></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/NUH_Logo_CMYK.jpg"></td>
 <td><strong>National University Hospital</strong><br>Represented by: Prof Aymeric Lim<br>Chief Executive Officer<br><a href="https://www.nuh.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/ntfgh%20logo.png"></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/NTFGH_Logo_CMYK_endorsement.png"></td>
 <td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: Dr Quek Lit Sin<br>Chief Executive Officer<br><a href="https://www.ntfgh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/shk-logo-01.png"></td>
