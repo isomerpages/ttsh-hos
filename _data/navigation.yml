@@ -1,0 +1,8 @@
+logo: /images/HOS_Logo__1_.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Network
+    collection: network
+  - title: Contact Us
+    url: /contact-us/
