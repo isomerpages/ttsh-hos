@@ -31,7 +31,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>KK Women's and Children's Hospital</strong><br>Represented by: Prof Alex Sia<br>Chief Executive Officer<br><a href="https://www.kkh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="![](/images/MicrosoftTeams_image__21_.png)"></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/MicrosoftTeams_image__21_.png"></td>
 <td><strong>National University Hospital</strong><br>Represented by: Prof Aymeric Lim<br>Chief Executive Officer<br><a href="https://www.nuh.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
