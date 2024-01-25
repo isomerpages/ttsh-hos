@@ -1,6 +1,6 @@
 ---
 title: Activity Highlights
-permalink: /network/permalink/
+permalink: /activity-highlights/network/
 variant: tiptap
 description: ""
 ---
