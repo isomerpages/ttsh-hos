@@ -20,6 +20,6 @@ of our population.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eugene.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MicrosoftTeams_image__46_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REVISE1.png">
 </div>
 <p></p>
