@@ -16,7 +16,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 </tr>
 	<tr>
 <td style="width: 150px;"><img src="/images/CGH_20logo_keyline_CMYK.jpg"></td>
-<td><strong>Changi General Hospital</strong><br>Represented by: Prof Ng Wai Hoe <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Changi General Hospital</strong><br>Represented by: A/Prof Ng Kee Chong <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="IMH" src="/images/HOS%20Members%20Logo/imh%20harmonised%20color.png"></td>
