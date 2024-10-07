@@ -17,7 +17,8 @@ we serve and drive healthcare sustainability for future generations.</p>
 <p>Together, we are one health system that can inspire and care for the health
 of our population.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HOS_Network_Representatives.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HOS_Representatives_Oct_2024.png">
 </div>
 <p></p>
