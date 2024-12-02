@@ -6,3 +6,5 @@ links:
     collection: network
   - title: Contact Us
     url: /contact-us/
+  - title: Resource Room
+    resource_room: true
