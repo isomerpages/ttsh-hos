@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.dk30o4n9yg3xn.amplifyapp.com
 prod: https://master.dk30o4n9yg3xn.amplifyapp.com
 facebook-pixel: ""
-resources_name: test
+resources_name: hos-resources
 shareicon: /images/HOS_Logo__1_.png
 is_government: false
 google_analytics_ga4: G-LMVR52TEG9
