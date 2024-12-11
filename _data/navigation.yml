@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Network
     collection: network
-  - title: Contact Us
-    url: /contact-us/
   - title: Resource Room
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
