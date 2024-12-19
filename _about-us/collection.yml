@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Network.md
       - Foreword.md
       - About Us.md
+      - Our Network.md
