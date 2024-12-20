@@ -2,8 +2,8 @@ logo: /images/HOS_Logo__1_.png
 links:
   - title: About Us
     collection: about-us
-  - title: Network
-    collection: network
+  - title: Calendar of Events
+    url: /calendar-of-events-2025/
   - title: Resource Room
     resource_room: true
   - title: Contact Us

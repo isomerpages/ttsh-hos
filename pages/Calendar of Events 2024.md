@@ -1,6 +1,6 @@
 ---
-title: Upcoming Activities
-permalink: /upcoming-activities/network/
+title: Calendar of Events 2024
+permalink: /calendar-of-events-2024/
 variant: tiptap
 description: ""
 ---
