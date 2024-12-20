@@ -1,5 +1,4 @@
 collections:
   network:
     output: true
-    order:
-      - Calendar of Events 2024.md
+    order: []
