@@ -62,7 +62,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://ihf-fih.org/"><img src="/images/2025_IHF_Full_Member.png"></a></td>
+<td style="width: 150px;"><a href="https://ihf-fih.org/"><img src="/images/IHF%20Logo/2025_IHF_Full_Member.png"></a></td>
 <td><strong>International Hospital Federation<br><a href="https://ihf-fih.org/" target="_blank"><small>Website</small></a><br>
 </strong></td></tr>
 </tbody>
