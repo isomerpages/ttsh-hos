@@ -16,4 +16,5 @@ sections:
   - infopic:
       title: Our Network
       image: /images/Our Network/our_network_mar_2025.png
+      alt: HOS Network
 ---
