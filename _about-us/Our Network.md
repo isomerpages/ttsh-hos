@@ -57,13 +57,16 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 
 </tbody></table>
 
-<h4>Global Affliate</h4>
+<h4>Global Affiliate</h4>
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://ihf-fih.org/"><img src="/images/IHF%20Logo/2025_IHF_Full_Member.png"></a></td>
-<td><strong>International Hospital Federation<br><a href="https://ihf-fih.org/" target="_blank"><small>Website</small></a><br>
-</strong></td></tr>
+<td><strong>International Hospital Federation<br><a href="https://ihf-fih.org/" target="_blank"><small>Website</small></a><br></strong></td>
+</tr>
+<tr><td style="width: 150px;"><img src="/images/AHF%20Logo/AHF_Logo.png"></td>
+<td><strong>Asian Hospital Federation<br></strong></td>
+</tr>
 </tbody>
 </table>
