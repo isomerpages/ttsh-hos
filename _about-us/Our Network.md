@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 	<tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ah.png"></td>
-<td><strong>Alexandra Hospital</strong><br>Represent![](/images/HOS%20Members%20Logo/ah.png)ed by: A/Prof Jason Chua<br>
+<td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
