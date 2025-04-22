@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 	<tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ah.png"></td>
-<td><strong>Alexandra Hospital</strong><br>Represent![](/images/HOS%20Members%20Logo/ah.png)ed by: A/Prof Jason Chua<br>
+<td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
@@ -42,7 +42,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Sengkang General Hospital<br> </strong>Represented by: Prof Teo Eng Kiong<br>Chief Executive Officer<br><a href="https://www.skh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/sgh_nobackground.png"></td>
-<td><strong>Singapore General Hospital</strong><br>Represented by: Prof Kenneth Kwek<br>Chief Executive Officer<br><a href="https://www.sgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Singapore General Hospital</strong><br>Represented by: A/Prof Tan Hiang Khoon<br>Chief Executive Officer<br><a href="https://www.sgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/singhealth%20community%20.png"></td>
 <td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
@@ -57,13 +57,16 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 
 </tbody></table>
 
-<h4>Global Affliate</h4>
+<h4>Global Affiliate</h4>
 
-<table cellpadding="10" border="0" style="width: 100%;">
+<table cellpadding="10" border="0" style="width: 80%;">
 <tbody>
 <tr>
 <td style="width: 150px;"><a href="https://ihf-fih.org/"><img src="/images/IHF%20Logo/2025_IHF_Full_Member.png"></a></td>
-<td><strong>International Hospital Federation<br><a href="https://ihf-fih.org/" target="_blank"><small>Website</small></a><br>
-</strong></td></tr>
+<td><strong>International Hospital Federation<br><a href="https://ihf-fih.org/" target="_blank"><small>Website</small></a><br></strong></td>
+</tr>
+<tr><td style="width: 150px;"><img src="/images/AHF%20Logo/AHF_Logo__White_Background_.png"></td>
+<td><strong>Asian Hospital Federation<br></strong></td>
+</tr>
 </tbody>
 </table>
