@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 	<tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ah.png"></td>
-<td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Chua<br>
+<td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Phua<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
@@ -36,7 +36,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ntfgh.png"></td>
-<td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: A/Prof Dan Yock Young<br>Chief Executive Officer<br><a href="https://www.ntfgh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Ng Teng Fong General Hospital </strong><br>Represented by: A/Prof Dan Yock Young<br>Chief Executive Officer<br><a href="https://www.ntfgh.com.sg." target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/shk-logo-01.png"></td>
 <td><strong>Sengkang General Hospital<br> </strong>Represented by: Prof Teo Eng Kiong<br>Chief Executive Officer<br><a href="https://www.skh.com.sg/" target="_blank"><small>Website</small></a><br></td>
@@ -51,7 +51,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Adj Prof Tang Kong Choong<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/woodlands%20health.jpg"></td>
-<td><strong>Woodlands Health</strong><br>Represented by: Dr Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Woodlands Health</strong><br>Represented by: Prof Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
 
