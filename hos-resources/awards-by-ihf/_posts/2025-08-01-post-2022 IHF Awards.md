@@ -46,6 +46,10 @@ have also been continuously adopted as best practices throughout.</p>
 </blockquote>
 <p><strong>Tan Tock Seng Hospital</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Reimagining and Redesigning Care with Innovation</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Hospital Without Walls digital innovation programme revolutionises
 healthcare delivery by extending care beyond physical boundaries and redesigned
 with digitalisation as the key enabler.</p>
@@ -65,6 +69,9 @@ and community providers. This comprehensive approach transforms traditional
 healthcare delivery into a relationship-based, integrated care system supported
 by innovative technology to reimagine and redesign care with patients and
 partners.</p>
+</div>
+</details>
+</div>
 <p></p>
 <h1><strong>🏆 SILVER</strong></h1>
 <blockquote>
