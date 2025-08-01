@@ -41,6 +41,33 @@ commitment to patient-centric care and continuous process improvement.</p>
 </div>
 <p></p>
 <h2><strong>🏅 Honourable Mention</strong></h2>
-<h4><em>Dr Kwang Tae Kim</em> Grand Hospital Award</h4>
-<p>x</p>
-<p>x</p>
+<h4><em>Dr Kwang Tae Kim </em>Grand Hospital Award</h4>
+<p><strong>National University Hospital</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Embracing AI, embracing the future of treatment</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In 2023, NUH became Singapore's first hospital to adopt RapidAI, an innovative
+AI platform that revolutionised stroke care. The system analyses patients'
+CT scans within minutes, rapidly identify proportion of the brain that
+has been damaged and parts of the brain that can potentially be saved through
+medical intervention, and automatically alerting doctors. This technology
+empowers clinicians to make faster, more informed decisions, significantly
+reducing brain damage risk and improving patient outcomes.</p>
+<p>Building on NUH's track record of healthcare innovation, the hospital's
+NUHS@Home programme has transformed patient care delivery since its pilot
+in 2020. The scheme, which enables patients to receive hospital-level care
+in the comfort of their homes, has proven so successful that it has been
+adopted as a mainstream care model across Singapore's public healthcare
+system. Adopting a digital approach, NUH incorporates the use of the NUHS
+app to optimise patient journey for registrations and payments. The app
+is used by 85% of patients, and it empowers patients to actively participate
+in their health management including appointment booking, checking of test
+results, and accessing general health advice.</p>
+<p>Together, these initiatives showcase NUH's commitment to leveraging technology
+for better patient care.</p>
+</div>
+</details>
+</div>
+<p></p>
