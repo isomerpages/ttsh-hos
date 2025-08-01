@@ -41,7 +41,9 @@ commitment to patient-centric care and continuous process improvement.</p>
 </div>
 <p></p>
 <h2><strong>🏅 Honourable Mention</strong></h2>
+<blockquote>
 <h4><em>Dr Kwang Tae Kim </em>Grand Hospital Award</h4>
+</blockquote>
 <p><strong>National University Hospital</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -67,6 +69,37 @@ in their health management including appointment booking, checking of test
 results, and accessing general health advice.</p>
 <p>Together, these initiatives showcase NUH's commitment to leveraging technology
 for better patient care.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h2><strong>🏅 Honourable Mention</strong></h2>
+<blockquote>
+<h4><em>American Hospital Association </em>Excellence Award for Healthcare Workers’ Wellbeing</h4>
+</blockquote>
+<p><strong>National University Hospital</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>NUH Healthy Keto: Weight Loss for a healthier you programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>NUH's Chief Dietitian, Dr Lim Su Lin, pioneered an innovative healthy
+keto weight loss programme tailored for overweight staff and patients.
+This scientifically-designed programme enables safe weight loss while maintaining
+healthy cholesterol levels, addressing the unique challenges faced by individuals
+with health concerns and sedentary lifestyles, particularly those working
+long hours.</p>
+<p>The comprehensive six-month programme integrates cutting-edge technology
+with personalised support, featuring digital health coaching, targeted
+workshops, and continuous guidance from NUH dietitians through a dedicated
+mobile application. This tech-enabled approach ensures participants receive
+consistent support and monitoring throughout their weight loss journey.</p>
+<p>The programme's effectiveness is demonstrated through impressive outcomes:
+participants achieved an average weight loss of 7.8 kilograms over six
+months. Beyond weight reduction, many participants experienced significant
+improvements in their health markers, including better management of diabetes
+and blood pressure, showcasing the programme's holistic impact on overall
+health.</p>
 </div>
 </details>
 </div>
