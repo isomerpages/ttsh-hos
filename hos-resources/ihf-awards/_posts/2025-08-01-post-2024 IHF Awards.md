@@ -40,3 +40,7 @@ commitment to patient-centric care and continuous process improvement.</p>
 </details>
 </div>
 <p></p>
+<h2><strong>🏅 Honourable Mention</strong></h2>
+<h4><em>Dr Kwang Tae Kim</em> Grand Hospital Award</h4>
+<p>x</p>
+<p>x</p>
