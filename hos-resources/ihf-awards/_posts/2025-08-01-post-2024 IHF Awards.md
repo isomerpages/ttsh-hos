@@ -11,9 +11,12 @@ variant: tiptap
 <blockquote>
 <h3><em>Mastercard</em> Award for Hospital Operational Excellence</h3>
 </blockquote>
-<h4>Project DEAR Patient (Discharge Early And Rest Patient)</h4>
 <p><strong>National University Hospital</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Project DEAR Patient (Discharge Early And Rest Patient)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>A 2021 NUH patient survey identified key areas for improvement in the
 discharge medication process, specifically focusing on wait times, updates,
 and collection procedures. In response, NUH assembled an inter-disciplinary
@@ -33,3 +36,7 @@ points to 94%</p>
 substantial improvement, rising from 88% to 97%</p>
 <p>This comprehensive approach to service enhancement demonstrates NUH's
 commitment to patient-centric care and continuous process improvement.</p>
+</div>
+</details>
+</div>
+<p></p>
