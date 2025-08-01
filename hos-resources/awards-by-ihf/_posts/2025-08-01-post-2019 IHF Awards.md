@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h1><strong>🏆 SILVER</strong></h1>
 <blockquote>
-<h3><em>Austco </em>Excellence Award For Quality &amp; Patient-Centered Care</h3>
+<h4><em>Austco </em>Excellence Award For Quality &amp; Patient-Centered Care</h4>
 </blockquote>
 <p><strong>Changi General Hospital</strong>
 </p>
