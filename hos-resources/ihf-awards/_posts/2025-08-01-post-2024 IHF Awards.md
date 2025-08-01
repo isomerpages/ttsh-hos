@@ -7,3 +7,7 @@ description: International Hospital Foundation (IHF) awards clinched over the ye
 image: ""
 variant: tiptap
 ---
+<h1><strong>🏆 BRONZE</strong></h1>
+<h3><em>Mastercard</em> Award for Hospital Operational Excellence</h3>
+<p><em>xx</em>
+</p>
