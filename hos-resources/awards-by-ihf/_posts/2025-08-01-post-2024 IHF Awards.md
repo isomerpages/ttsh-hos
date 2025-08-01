@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h1><strong>🏆 BRONZE</strong></h1>
 <blockquote>
-<h3><em>Mastercard</em> Award for Hospital Operational Excellence</h3>
+<h4><em>Mastercard</em> Award for Hospital Operational Excellence</h4>
 </blockquote>
 <p><strong>National University Hospital</strong>
 </p>
@@ -42,7 +42,7 @@ commitment to patient-centric care and continuous process improvement.</p>
 <p></p>
 <h2><strong>🏅 Honourable Mention</strong></h2>
 <blockquote>
-<h4><em>Dr Kwang Tae Kim </em>Grand Hospital Award</h4>
+<p><em>Dr Kwang Tae Kim </em>Grand Hospital Award</p>
 </blockquote>
 <p><strong>National University Hospital</strong>
 </p>
@@ -75,7 +75,8 @@ for better patient care.</p>
 <p></p>
 <h2><strong>🏅 Honourable Mention</strong></h2>
 <blockquote>
-<h4><em>American Hospital Association </em>Excellence Award for Healthcare Workers’ Wellbeing</h4>
+<p><em>American Hospital Association </em>Excellence Award for Healthcare
+Workers’ Wellbeing</p>
 </blockquote>
 <p><strong>National University Hospital</strong>
 </p>
