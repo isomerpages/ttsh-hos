@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h1>🏆 <strong>BRONZE</strong></h1>
 <blockquote>
-<h3><em>Mastercard </em>Award for Hospital Operational Excellence</h3>
+<h4><em>Mastercard </em>Award for Hospital Operational Excellence</h4>
 </blockquote>
 <p><strong>Tan Tock Seng Hospital</strong>
 </p>
