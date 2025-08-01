@@ -7,7 +7,7 @@ description: International Hospital Foundation (IHF) awards clinched in 2017.
 image: ""
 variant: tiptap
 ---
-<h1><strong>🏅 HONOURABLE MENTION</strong></h1>
+<h1><strong>🏅 Honourable Mention</strong></h1>
 <blockquote>
 <h4>Excellence Award For Leadership And Management</h4>
 </blockquote>
