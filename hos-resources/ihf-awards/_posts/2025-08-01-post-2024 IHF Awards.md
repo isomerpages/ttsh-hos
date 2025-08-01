@@ -11,8 +11,6 @@ variant: tiptap
 <blockquote>
 <h3><em>Mastercard</em> Award for Hospital Operational Excellence</h3>
 </blockquote>
-<p><strong>National University Hospital</strong>
-</p>
 <h4>Project DEAR Patient (Discharge Early And Rest Patient)</h4>
 <p><strong>National University Hospital</strong>
 </p>
