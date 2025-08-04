@@ -68,8 +68,15 @@ Approach for Frequent Readmitters</div>
 </a>
 </div>
 <p></p>
-<p>2017</p>
-<p>x</p>
+<blockquote>
+<h2><strong>2017</strong></h2>
+</blockquote>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🏅 Honourable Mention ✦ Transforming the Nursing Workforce to Drive Ground-up Improvement and Innovation through Collective Decision-Making</div><div class="isomer-card-description">Tan Tock Seng Hospital in the EOH Excellence Award For Leadership And Management.</div><div class="isomer-card-link">Read about the project</div></div></a>
+</div>
 <p></p>
-<p>2016</p>
-<p>s</p>
+<blockquote>
+<h2><strong>2016</strong></h2>
+</blockquote>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🏆 WINNER ✦ Tan Tock Seng Hospital (TTSH)’s Collective Leadership Journey</div><div class="isomer-card-description">Tan Tock Seng Hospital in the Excellence Award For Leadership And Management.</div><div class="isomer-card-link">Read about the project</div></div></a>
+</div>
+<p></p>
