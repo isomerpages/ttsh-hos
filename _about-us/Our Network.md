@@ -19,11 +19,11 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Changi General Hospital</strong><br>Represented by: A/Prof Ng Kee Chong <br>Chief Executive Officer<br><a href="https://www.cgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="IMH" src="/images/HOS%20Members%20Logo/imh%20harmonised%20color.png"></td>
+<td style="width: 150px;"><img alt="IMH" src="/images/HOS%20Members%20Logo/institute%20of%20mental%20health%20logo.png"></td>
 <td><strong>Institute of Mental Health</strong><br>Represented by: A/Prof Daniel Fung<br>Chief Executive Officer<br><a href="https://www.imh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ktph%20nhg%20logo%20-%20fc.png"></td>
+<td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/khoo%20teck%20puat%20hospital%20logo.png"></td>
 <td><strong>Khoo Teck Puat Hospital</strong><br>Represented by: Prof Chua Hong Choon<br>Chief Executive Officer<br><a href="https://www.ktph.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
