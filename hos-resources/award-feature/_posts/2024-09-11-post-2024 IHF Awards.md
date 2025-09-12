@@ -48,7 +48,7 @@ commitment to patient-centric care and continuous process improvement.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Embracing AI, embracing the future of treatment</summary>
+<summary>Embracing AI, Embracing the Future of Treatment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In 2023, NUH became Singapore's first hospital to adopt RapidAI, an innovative
 AI platform that revolutionised stroke care. The system analyses patients'
@@ -82,7 +82,7 @@ Workers’ Wellbeing</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>NUH Healthy Keto: Weight Loss for a healthier you programme</summary>
+<summary>NUH Healthy Keto: Weight Loss for a Healthier You Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NUH's Chief Dietitian, Dr Lim Su Lin, pioneered an innovative healthy
 keto weight loss programme tailored for overweight staff and patients.
