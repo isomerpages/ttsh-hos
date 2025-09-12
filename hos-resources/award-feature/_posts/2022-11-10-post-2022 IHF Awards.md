@@ -75,10 +75,18 @@ partners.</p>
 <p></p>
 <h1><strong>🏆 SILVER</strong></h1>
 <blockquote>
-<h4><em>American College Of Healthcare Executives </em>Excellence Award For Leadership And Management</h4>
+<h4><em>American College of Healthcare Executives </em>Excellence Award for Leadership and Management</h4>
 </blockquote>
 <p><strong>Tan Tock Seng Hospital</strong>
 </p>
-<p>Hospital without Walls (HoW) – Tan Tock Seng Hospital’s digital transformation
-strategy</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Hospital without Walls (HoW) – Tan Tock Seng Hospital’s Digital Transformation
+Strategy</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Note: Project information to be updated</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
