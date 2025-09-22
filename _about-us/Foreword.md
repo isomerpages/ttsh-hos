@@ -1,6 +1,6 @@
 ---
 title: Foreword
-permalink: /foreword/about-us/
+permalink: /about-us/foreword/
 variant: tiptap
 description: ""
 ---
