@@ -6,7 +6,6 @@ variant: markdown
 ---
 <h3>HOS Network Members</h3>
 
-
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
@@ -47,14 +46,14 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/singhealth%20community%20.png"></td>
 <td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ttsh%20logo.png"></td>
+<tr><td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/Tan_Tock_Seng_Hospital_Logo.png"></td>
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Adj Prof Tang Kong Choong<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/woodlands%20health.jpg"></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/Woodlands_Health_Logo.png"></td>
 <td><strong>Woodlands Health</strong><br>Represented by: Prof Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
-
+	
 </tbody></table>
 
 <h4>Global Affiliate</h4>
@@ -70,3 +69,4 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 </tr>
 </tbody>
 </table>
+
