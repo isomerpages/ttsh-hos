@@ -10,7 +10,7 @@ variant: markdown
 <tbody>
 	<tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/ah.png"></td>
-<td><strong>Alexandra Hospital</strong><br>Represented by: A/Prof Jason Phua<br>
+<td><strong>Alexandra Hospital</strong><br>Represented by: Ms Margaret Lee<br>
 Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 	<tr>
@@ -50,7 +50,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Adj Prof Tang Kong Choong<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/woodlands_hospital_logo.png"></td>
-<td><strong>Woodlands Hospital</strong><br>Represented by: Ms Margaret Lee<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
+<td><strong>Woodlands Hospital</strong><br>Represented by: Prof Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
 	
