@@ -49,8 +49,8 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <tr><td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/Tan_Tock_Seng_Hospital_Logo.png"></td>
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Adj Prof Tang Kong Choong<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
 </tr>
-<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/Woodlands_Health_Logo.png"></td>
-<td><strong>Woodlands Health</strong><br>Represented by: Prof Jason Cheah<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
+<tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/woodlands_hospital_logo.png"></td>
+<td><strong>Woodlands Hospital</strong><br>Represented by: Ms Margaret Lee<br>Chief Executive Officer<br><a href="https://www.wh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 
 	
