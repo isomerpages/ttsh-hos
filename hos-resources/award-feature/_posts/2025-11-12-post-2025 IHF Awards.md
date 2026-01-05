@@ -43,8 +43,8 @@ long-term sustainability improvements.</p>
 <p></p>
 <h2><strong>🏅 Honourable Mention</strong></h2>
 <blockquote>
-<p><em>Geneva Sustainability Centre Excellence Award for Hospital Sustainability Acceleration</em>
-</p>
+<p><em>Geneva Sustainability Centre</em> Excellence Award for Hospital Sustainability
+Acceleration</p>
 </blockquote>
 <p><strong>Changi General Hospital</strong>
 </p>
@@ -77,8 +77,8 @@ a leader in healthcare sustainability.</p>
 <p></p>
 <h2><strong>🏅 Honourable Mention</strong></h2>
 <blockquote>
-<p><em>Geneva Sustainability Centre Excellence Award for Hospital Sustainability Acceleration</em>
-</p>
+<p><em>Geneva Sustainability Centre</em> Excellence Award for Hospital Sustainability
+Acceleration</p>
 </blockquote>
 <p><strong>Tan Tock Seng Hospital</strong>
 </p>
