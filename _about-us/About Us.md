@@ -4,8 +4,8 @@ permalink: /about-us/about-us/
 description: ""
 variant: markdown
 ---
-![](/images/250829_hos_networkmap.png)
 
+![](/images/260109_HOS_Network_Map.png)
 #### The Hospitals of Singapore (HOS) Network drives collective leadership for the future of hospitals. 
 
 Inaugurated on 1 September 2023, the Network has 12 hospital members across the three healthcare clusters in Singapore - NHG Health, National University Health System (NUHS) and Singapore Health Services (SHS). The HOS Network is hosted by the Centre for Healthcare Innovation (CHI). 
