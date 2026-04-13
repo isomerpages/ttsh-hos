@@ -15,6 +15,6 @@ sections:
       variant: center
   - infopic:
       title: Our Network
-      image: /images/260102_HOS_Network_Members.png
+      image: /images/260413_HOS_Network_Members.png
       alt: HOS Network
 ---
