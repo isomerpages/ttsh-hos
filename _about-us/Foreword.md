@@ -19,7 +19,8 @@ of our population.</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/260203_HOS_Website_Foreword.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/260430_HOS_Network_Foreword.png">
 </div>
 <p></p>
