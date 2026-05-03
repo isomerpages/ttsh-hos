@@ -27,7 +27,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 </tr>
 	<tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/kk%20hospital.png"></td>
-<td><strong>KK Women's and Children's Hospital</strong><br>Represented by: Prof Alex Sia<br>Chief Executive Officer<br><a href="https://www.kkh.com.sg/" target="_blank"><small>Website</small></a><br></td>
+<td><strong>KK Women's and Children's Hospital</strong><br>Represented by: A/Prof Chan Yoke Hwee<br>Chief Executive Officer<br><a href="https://www.kkh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/nuh%20logo%20cmyk%20endorsement%20011119.png"></td>
@@ -44,7 +44,7 @@ Chief Executive Officer <br><a href="https://www.ah.com.sg/Pages/Home.aspx" targ
 <td><strong>Singapore General Hospital</strong><br>Represented by: A/Prof Tan Hiang Khoon<br>Chief Executive Officer<br><a href="https://www.sgh.com.sg/" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img alt="andrew1" src="/images/HOS%20Members%20Logo/singhealth%20community%20.png"></td>
-<td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Gan Wee Hoe<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
+<td><strong>SingHealth Community Hospitals</strong><br>Represented by: A/Prof Lionel Cheng<br>Chief Executive Officer<br><a href="https://www.singhealth.com.sg/SCH" target="_blank"><small>Website</small></a><br></td>
 </tr>
 <tr><td style="width: 150px;"><img src="/images/HOS%20Members%20Logo/Tan_Tock_Seng_Hospital_Logo.png"></td>
 <td><strong>Tan Tock Seng Hospital</strong><br>Represented by: Adj Prof Tang Kong Choong<br>Chief Executive Officer<br><a href="https://www.ttsh.com.sg/Pages/default.aspx" target="_blank"><small>Website</small></a><br></td>
